@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dreamy Narrative Stories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f4ff;
+            padding: 50px;
+        }
+        h1 {
+            color: #6a3093;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Dreamy Stories</h1>
+    <p>Magical tales coming soon...</p>
+    <p>✨ Under construction ✨</p>
+</body>
+</html>
